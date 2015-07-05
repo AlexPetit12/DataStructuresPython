@@ -1,6 +1,6 @@
 class Stack:
     """
-    Very basic stack implementation
+    Very basic implementation of a stack
     """
     def __init__(self):
         self.items = []
