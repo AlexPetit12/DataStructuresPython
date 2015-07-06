@@ -20,4 +20,4 @@ def divideBy2(n):
     return binaryString
 
 # test
-print(divideBy2(233))
+#print(divideBy2(233))
